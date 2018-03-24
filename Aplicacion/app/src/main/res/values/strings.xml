@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Top 20 Movies 2017</string>
+    <string name="nombre_transicion_imagen">imagen_compartida</string>
+
 </resources>
